@@ -1,0 +1,159 @@
+header{{
+position: absolute;
+width: 1440px;
+height: 117px;
+left: 0px;
+top: 0px;
+background: #2E948A;
+box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+    
+/* logo */
+position: absolute;
+width: 244px;
+height: 77px;
+left: 82px;
+top: 20px;
+
+/* menu */
+position: absolute;
+width: 309px;
+height: 23px;
+left: 1028px;
+top: 47px;
+}}
+
+h1{/* intro */
+position: absolute;
+width: 317px;
+height: 92px;
+left: 82px;
+top: 198px;
+
+/* Educação financeira é tudo de bom */
+position: absolute;
+width: 317px;
+height: 23px;
+left: 82px;
+top: 267px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+color: #555555;
+
+/* cursos */
+position: absolute;
+width: 263px;
+height: 69px;
+left: 82px;
+top: 198px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 69px;
+/* identical to box height */
+text-transform: capitalize;
+color: #FF4081;
+}
+
+h2{/* curso 1 */
+position: absolute;
+width: 1157px;
+height: 381px;
+left: 112px;
+top: 385px;
+
+/* image 3 (Traced) */
+position: absolute;
+left: 7.78%;
+right: 65.83%;
+top: 15.84%;
+bottom: 68.49%;
+background: #000000;
+border: 1px solid #000000;
+
+/* Group 14 */
+position: absolute;
+width: 233px;
+height: 51px;
+left: 545px;
+top: 641px;
+
+/* Investimento para iniciantes */
+position: absolute;
+width: 512px;
+height: 40px;
+left: 545px;
+top: 406px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 40px;
+color: #FF4081;
+}
+
+h3{/* linha */
+position: absolute;
+width: 1244px;
+height: 5px;
+left: 82px;
+top: 834px;    
+background: #C4C4C4;}
+
+h4{/* curso 2 */
+
+
+    position: absolute;
+    width: 1157px;
+    height: 385px;
+    left: 112px;
+    top: 946px;
+
+    /* image 2 (Traced) */
+position: absolute;
+left: 7.78%;
+right: 65.83%;
+top: 38.91%;
+bottom: 45.25%;
+
+background: #2D2D2D;
+border: 1px solid #000000;
+}
+
+{/* Group 15 */
+
+
+position: absolute;
+width: 233px;
+height: 51px;
+left: 545px;
+top: 1199px;
+
+/* Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. */
+position: absolute;
+width: 724px;
+height: 105px;
+left: 545px;
+top: 1024px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;}
+
+h5{/* linha */
+position: absolute;
+width: 1244px;
+height: 5px;
+left: 98px;
+top: 1424px;
+    
+background: #C4C4C4;}
